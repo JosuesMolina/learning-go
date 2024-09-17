@@ -1,3 +1,5 @@
+# El siguiente proyecto tiene como finalidad recopilar y exponer notas relevantes de mi aprendizaje en GO.
+
 ## Compilación
 
 - ``go build``
